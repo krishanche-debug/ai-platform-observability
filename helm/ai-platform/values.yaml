@@ -1,0 +1,8 @@
+app:
+  name: ai-api
+
+replicaCount: 3
+
+image:
+  repository: ai-platform-observability
+  tag: latest
